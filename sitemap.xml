@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset>
+  <url>
+    <loc>https://physplusplus.github.io/index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+    <lastmod>2021-08-20</lastmod>
+  </url>
+  <url>
+    <loc>https://physplusplus.github.io/index2.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+    <lastmod>2021-08-20</lastmod>
+  </url>
+</urlset>
